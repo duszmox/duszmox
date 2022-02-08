@@ -1,5 +1,5 @@
 ### 😺 Gyula Kiri | Github
-![HelloThereObiWanGIF](https://user-images.githubusercontent.com/38438001/152939038-286ae80a-43e8-4aa2-9796-8ede6d50fdd7.gif)
+![HelloThereObiWanGIF](https://user-images.githubusercontent.com/38438001/152939038-286ae80a-43e8-4aa2-9796-8ede6d50fdd7.gif) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duszmox&count_private=true&show_icons=true&theme=dark)
 
 
 

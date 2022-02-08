@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋
+![HelloThereObiWanGIF](https://user-images.githubusercontent.com/38438001/152939038-286ae80a-43e8-4aa2-9796-8ede6d50fdd7.gif)
+
 
 
 - 🔭 I’m currently working on Hackintosh projects and the renewing of the Fazekas Enciklopedia

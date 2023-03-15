@@ -7,4 +7,4 @@
   1. Hit me up on Discord [duszmo#4594](https://discord.com/channels/@me/543773624180408332)
   1. Send me an email duszmox@gmail.com  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duszmox&count_private=true&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duszmox&count_private=true&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duszmox&layout=compact)]

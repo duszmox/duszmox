@@ -1,7 +1,7 @@
 ### 😺 Gyula Kiri | Github
 ![HelloThereObiWanGIF](https://user-images.githubusercontent.com/38438001/152939038-286ae80a-43e8-4aa2-9796-8ede6d50fdd7.gif) 
 
-Mobile Developer @ real City
+Mobile Developer @ [realCity.io](https://realcity.io): Checkout [utas.hu](https://apps.apple.com/hu/app/utas-hu/id1471518870) and [BKK Futár](https://play.google.com/store/apps/details?id=io.realcity.mobile.bkk)
 
 - 📫 How to reach me: 
   1. Hit me up on Discord [duszmo#4594](https://discord.com/channels/@me/543773624180408332)
